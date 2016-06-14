@@ -201,6 +201,8 @@ GEM
       fog-core
       nokogiri (~> 1.5, >= 1.5.11)
     formatador (0.2.5)
+    haml (4.0.7)
+      tilt
     hike (1.2.3)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
@@ -284,6 +286,9 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
+    simple_form (3.0.4)
+      actionpack (~> 4.0)
+      activemodel (~> 4.0)
     slop (3.6.0)
     spring (1.7.1)
     sprockets (2.12.3)
@@ -332,6 +337,7 @@ DEPENDENCIES
   devise (~> 3.4.1)
   figaro (~> 1.0.0)
   fog (= 1.38.0)
+  haml (~> 4.0.5)
   jbuilder (~> 2.0)
   jquery-rails
   mini_magick (= 3.8.0)
@@ -342,6 +348,7 @@ DEPENDENCIES
   rails_12factor
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
+  simple_form (~> 3.0.2)
   spring
   sprockets (= 2.12.3)
   sqlite3

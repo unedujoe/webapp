@@ -28,6 +28,8 @@ gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 gem 'turbolinks'
 gem 'fog',  '1.38.0'
+gem 'simple_form', '~> 3.0.2'
+gem 'haml', '~> 4.0.5'
 
 # Use font awesome library for icon
 #gem 'font-awesome-sass','~> 4.2.0'
