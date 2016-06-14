@@ -30,6 +30,7 @@ gem 'turbolinks'
 gem 'fog',  '1.38.0'
 gem 'simple_form', '~> 3.0.2'
 gem 'haml', '~> 4.0.5'
+gem 'devise', '~> 3.4.1'
 
 # Use font awesome library for icon
 #gem 'font-awesome-sass','~> 4.2.0'
@@ -52,7 +53,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
 # Use devise for user authentication
-gem 'devise', '~> 3.4.1'
+
 # Use ActiveModel has_secure_password
 # Use stripe for handling payments
 gem 'stripe', '~> 1.16.1'
