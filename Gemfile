@@ -29,7 +29,7 @@ gem 'bootstrap-will_paginate', '0.0.10'
 gem 'turbolinks'
 gem 'fog',  '1.38.0'
 
-# Use font awesome library for icons
+# Use font awesome library for icon
 #gem 'font-awesome-sass','~> 4.2.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
